@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RetroPacman</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="play">Start</string>
+    <string name="about">About</string>
+    <string name="about_text">RetroPacman, application developed by W4pity, currently in third year of Computer Engineering. Find other android applications:\n-RetroSnake\n-GPS-Tracer\n\nw4pity@gmail.com</string>
+
+    <string name="back">Back</string>
+</resources>
